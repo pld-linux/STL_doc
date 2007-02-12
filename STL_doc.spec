@@ -1,5 +1,5 @@
 Summary:	Standard Template Library Programmer's Guide
-Summary(pl):	Podrêcznik programisty STL
+Summary(pl.UTF-8):   PodrÄ™cznik programisty STL
 Name:		STL_doc
 Version:	1.0
 Release:	1
@@ -22,13 +22,13 @@ parameterized: almost every component in the STL is a template. You
 should make sure that you understand how templates work in C++ before
 you use the STL. This package contains STL Programmer's Guide.
 
-%description -l pl
-Standardowa biblioteka szablonów STL jest bibliotek± C++ klas
-kontenerów, algorytmów i iteratorów; dostarcza wielu podstawowych
-algorytmów i struktur danych znanych informatyce. Komponenty STL s±
-mocno parametryzowane: prawie ka¿dy z nich jest szablonem. Powiniene¶
-siê upewniæ, ¿e rozumiesz sposób dzia³ania szablonów w C++ zanim
-u¿yjesz STL. Ten pakiet zawiera podrêcznik programisty biblioteki
+%description -l pl.UTF-8
+Standardowa biblioteka szablonÃ³w STL jest bibliotekÄ… C++ klas
+kontenerÃ³w, algorytmÃ³w i iteratorÃ³w; dostarcza wielu podstawowych
+algorytmÃ³w i struktur danych znanych informatyce. Komponenty STL sÄ…
+mocno parametryzowane: prawie kaÅ¼dy z nich jest szablonem. PowinieneÅ›
+siÄ™ upewniÄ‡, Å¼e rozumiesz sposÃ³b dziaÅ‚ania szablonÃ³w w C++ zanim
+uÅ¼yjesz STL. Ten pakiet zawiera podrÄ™cznik programisty biblioteki
 STL. 
 
 %prep
