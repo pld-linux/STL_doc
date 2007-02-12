@@ -1,5 +1,5 @@
 Summary:	Standard Template Library Programmer's Guide
-Summary(pl.UTF-8):   Podręcznik programisty STL
+Summary(pl.UTF-8):	Podręcznik programisty STL
 Name:		STL_doc
 Version:	1.0
 Release:	1
